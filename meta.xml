@@ -1,0 +1,5 @@
+﻿<meta> 
+	<script src="client.lua" type="client" cache="false"/>
+	<file src ='money.png' />
+	<file src ='font.ttf' />
+</meta>
